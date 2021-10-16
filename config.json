@@ -1,0 +1,8 @@
+{
+    "prefix": "ODk4Nzg3OTQ1MTUzMTc1NjIz.YWpTgA.5z08BsyY7IVwq7T97EV6-1wQOFY",
+    "color": "f87c7c",
+    "invalidCmdReply": "ไม่สามารถใช้งานได้",
+    "methods": ["add", "remove"],
+    "intervalTime": 5000,
+    "expiredMessage": "ยศ VIP ของคุณได้หมดลงเเล้ว"
+}

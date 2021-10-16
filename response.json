@@ -1,0 +1,25 @@
+{
+  "content": "<@!402319748374724608> <@!311187998253252611>",
+  "members": [
+    {
+      "guildID": "857674758895042640",
+      "joinedTimestamp": 1624555997409,
+      "lastMessageChannelID": null,
+      "premiumSinceTimestamp": null,
+      "deleted": false,
+      "nickname": null,
+      "userID": "402319748374724608",
+      "displayName": "Miki"
+    },
+    {
+      "guildID": "857674758895042640",
+      "joinedTimestamp": 1624565979146,
+      "lastMessageChannelID": null,
+      "premiumSinceTimestamp": 0,
+      "deleted": false,
+      "nickname": null,
+      "userID": "311187998253252611",
+      "displayName": "Seven"
+    }
+  ]
+}
